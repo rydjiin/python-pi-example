@@ -3,9 +3,9 @@ def main(msg):
 
 main("wesh la mif")
 
-//yeeeeehaw
-//moretz
-//ervevevevrvev
+#yeeeeehaw
+#moretz
+#ervevevevrvev
 
-//labr,z
+#labr,z
 
